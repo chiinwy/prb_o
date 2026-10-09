@@ -1,6 +1,8 @@
 # Decision Tree from Scratch / Árbol de decisión desde cero
 
-🇬🇧 [English](#-english) · 🇪🇸 [Español](#-español)
+![alt text](decision_tree-1.svg)
+
+🇬🇧 [English](#-english) / 🇪🇸 [Español](#-español)
 
 ---
 
