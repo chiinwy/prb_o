@@ -2,11 +2,11 @@
 
 ![alt text](decision_tree-1.svg)
 
-🇬🇧 [English](#-english) / 🇪🇸 [Español](#-español)
+[English](#-english) / [Español](#-español)
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Overview
 
@@ -90,7 +90,7 @@ x2 <= 159.5
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 ### Descripción general
 
