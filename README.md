@@ -2,7 +2,7 @@
 
 ![alt text](decision_tree-1.svg)
 
-[English](#-english) / [Español](#-español)
+[English](#english) / [Español](#español)
 
 ---
 
